@@ -11,7 +11,7 @@ https://www.linkedin.com/in/paulina-halpern-091159211/
 
 🚀 Current Project in Progress:
 
-Note Taking App – Built with Node, Express, Knex, PostgreSQL, React, Tailwind
+Note Taking App – Built with Node, Express, Knex, PostgreSQL, React, Tailwind -
 https://github.com/paulinahalpern/note-taking-app.git
 
 
